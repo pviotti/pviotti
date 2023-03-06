@@ -2,7 +2,6 @@
 
 - 🙂 I’m a human being based in Ireland.
 - 👷 I work as a software engineer and I hold a PhD in computer science.
-- 🤖 Pronouns: he/his.
 - 📫 How to reach me: `$name.$surname[at]gmail[dot]com` or [LinkedIn](https://www.linkedin.com/in/paoloviotti/).
 
 <!--- 🌱 I’m currently learning ...
